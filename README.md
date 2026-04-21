@@ -1,74 +1,72 @@
-#  Inventory & Supplier Performance Dashboard
+# 📊 Inventory & Supplier Performance Dashboard
 
-## Overview
-This project focuses on analysing supplier performance and inventory trends to support better procurement and operational decision-making. The dashboard highlights key metrics such as cost, delivery performance, and product quality.
-
----
-
-## 🎯 Objective
-To identify inefficiencies in supplier performance and inventory management, and provide data-driven insights for cost optimisation and improved supply chain efficiency.
+## 🔍 Overview  
+This project showcases an Excel-based dashboard built to analyse procurement performance across suppliers, products, and categories. The aim was to transform raw operational data into meaningful insights that support better decision-making in supply chain and procurement functions.
 
 ---
 
-## 🛠️ Tools & Skills Used
+## 🎯 Objective  
+To evaluate supplier performance and identify inefficiencies in procurement by analysing key factors such as cost, delivery performance, product demand, and quality.
+
+---
+
+## 🛠️ Tools & Approach  
 - Microsoft Excel  
-- Pivot Tables & Pivot Charts  
-- Data Cleaning & Transformation  
-- KPI Analysis  
-- Data Visualisation  
+- Pivot Tables & Charts  
+- KPI Tracking  
+- Data Cleaning and Structuring  
+- Visual Analysis  
 
 ---
 
-##  Key Features
-- Supplier performance analysis (cost, delivery time, defect rate)  
-- Inventory tracking across categories and products  
-- Delay analysis (On-Time vs Delayed deliveries)  
-- Cost distribution by product category  
-- Interactive dashboard using slicers  
+## 📈 Dashboard Highlights  
+
+### 🔹 Key Metrics  
+- Total Spend  
+- Average Delivery Days  
+- Total Units Received  
+- Delayed Units  
+- Delay Rate (%)  
 
 ---
 
-##  Dashboard Components
-- **KPI Metrics:** Total Spend, Average Delivery Time, Total Units Received, Delayed Orders  
-- **Charts:**  
-  - Total Cost by Supplier  
-  - Cost Distribution by Category  
-  - Delivery Performance Analysis  
-- **Filters:** Supplier, Category, Region  
+### 🔹 Analysis Performed  
+- Supplier-wise cost comparison to identify high-spend vendors  
+- Category-level cost distribution to understand spending patterns  
+- Delivery performance analysis (on-time vs delayed units)  
+- Product-wise demand analysis based on units received  
 
 ---
 
-## Key Insights
-- Certain suppliers show higher defect rates, indicating quality risks  
-- A significant portion of total spend is concentrated in specific categories  
-- Delivery delays are linked to specific suppliers, impacting operations  
-- Opportunities identified for cost optimisation and supplier improvement  
+## 💡 Key Insights  
+- Supplier Z shows the highest defect rate, indicating potential quality concerns  
+- Raw Material contributes slightly more to total spend compared to Packaging  
+- Supplier X maintains consistent delivery performance despite higher spend  
+- Supplier Z has the highest delayed units, making it a higher operational risk  
 
 ---
 
-## Dashboard Preview
-*(Add your dashboard screenshot here)*
+## 📊 Business Impact  
+This dashboard helps in:
+- Identifying high-risk suppliers  
+- Improving procurement decision-making  
+- Tracking delivery reliability  
+- Understanding cost distribution and demand trends  
 
 ---
 
-## Business Impact
-This dashboard enables:
-- Better supplier evaluation and selection  
-- Improved inventory planning and demand alignment  
-- Data-driven procurement decisions  
-- Enhanced operational efficiency  
+## 📷 Dashboard Preview  
+*<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52f3bb25-8401-4739-9993-6a551e69832d" />*
 
 ---
 
-##  Future Improvements
+## 🚀 Future Enhancements  
 - Integration with Power BI for advanced visualisation  
 - Automated data updates  
-- Inclusion of forecasting models for demand planning  
+- Inclusion of demand forecasting models  
 
 ---
 
-## 👤 Author
+## 👤 Author  
 **Prince Parsad**  
 Aspiring Procurement & Operations Analyst  
-
-📫 Connect with me on LinkedIn
