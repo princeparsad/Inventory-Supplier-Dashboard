@@ -4,9 +4,8 @@
 This project showcases an Excel-based dashboard built to analyse procurement performance across suppliers, products, and categories. The aim was to transform raw operational data into meaningful insights that support better decision-making in supply chain and procurement functions.
 ## 📄 Project Report
 
-A detailed corporate-style report explaining the analysis, insights, and recommendations.
+[View Full Report](./Procurement_Analysis_Report.pdf)
 
-👉 [View Full Report](./Procurement_Analysis_Report.pdf)
 ---
 
 ## 🎯 Objective  
